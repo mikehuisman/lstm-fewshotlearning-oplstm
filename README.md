@@ -1,6 +1,6 @@
 # Are LSTMs Good Few-Shot Learners? Outer Product LSTM (OP-LSTM) is!
 
-This is the GitHub repository accompanying the paper titled *Are LSTMs Good Few-Shot Learners? Outer Product LSTM (OP-LSTM) is!*. Below, you can find the instructions to reproduce the results in the paper. 
+This is the GitHub repository accompanying the paper titled *Are LSTMs Good Few-Shot Learners? Outer Product LSTM (OP-LSTM) is!*. Below, you can find the instructions to reproduce the results in the paper. The requirements file is called *reqs.txt*. We used Python 3.8.8 for running all experiments. 
 
 
 
